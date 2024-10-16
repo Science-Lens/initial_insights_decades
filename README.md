@@ -1,2 +1,3 @@
-# initial_insights_decades
+# Initial Insights by Decade
 This repo presents key insights on the top 2% researchers' ranking developed by Dr. John P.A. Ioannidis of Stanford University and sponsored by Elsevier. For each continent, using decade intervals, starting from 2024 backwards until 1950, the code generates count heat maps in addition to the mean, median, and SD of the composite score. 
+This code is provided under GPLv3 copyleft license, while any visuals are provided under CC BY-NC 3.0 similar to the original dataset that can be accessed through the following link: https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7
